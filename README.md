@@ -1,3 +1,3 @@
 # Entrega-4-Electo-Digital-II
 #MIEMBROS #Angie Marisela Garcia #Juan Felipe Arroyave #Estefany Cuervo Suarez 
-Minijuego donde se deben esquivar obstaculos utilizando la pantalla OLED SSD1306 Y pulsadores adicionales para control del personaje dentro del juego con varios modos de jugabilidad y musica y efectos sonoros adicionales.
+# Juego clásico similar al Chrome Dinosaur, pero con controles duales (saltar/agacharse) que añaden profundidad estratégica, donde debes esquivar obtaculos, cuenta de diferentes modos de juego, el clasico llegar tan lejos como sea posible, tiempo durar 60 segundos y hardcore donde aumenta la velocidad desde el inicio.
